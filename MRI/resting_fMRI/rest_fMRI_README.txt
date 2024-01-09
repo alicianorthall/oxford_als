@@ -27,6 +27,7 @@ FIX training script:
 Functional connectome scripts
 - rest_fmri_extract_ts.sh
 - rest_fmri_fconnectome.py
+    - THIS IS A CURRENTLY A WORKING SCRIPT
 
 FSLNets scripts
 - rest_fmri_fslnets_prep.sh
