@@ -68,9 +68,7 @@ if __name__ == "__main__":
     coreg_dir = "/home/mtrubshaw/Documents/ALS_dyn/data/coreg"
     
 
-    #participants = pd.read_csv("/home/mtrubshaw/Documents/ALS_dyn/data/demographics/complete_demo_dyn_als.csv")
-  #  participants = pd.read_csv("/home/mtrubshaw/Documents/ALS_dyn/data/demographics/miss_struc.csv")
-    participants = pd.read_csv("/home/mtrubshaw/Documents/ALS_dyn/data/demographics/0183.csv")
+    participants = pd.read_csv("/home/mtrubshaw/Documents/ALS_dyn/data/demographics/complete_demo_dyn_als.csv")
     subjects = participants["Subject"].values
     datasets = participants["Dataset"].values
     structurals = participants["Structural"].values
