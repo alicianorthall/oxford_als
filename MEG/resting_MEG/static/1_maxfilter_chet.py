@@ -9,7 +9,7 @@ from osl.maxfilter import run_maxfilter_batch
 # Setup paths to raw (pre-maxfiltered) fif files
 
 input_files = [
-"/home/mtrubshaw/Documents/ALS_TMS/raw/s106_rest.fif",
+"/home/mtrubshaw/Documents/SXX_rest.fif",
 
 ]
 
